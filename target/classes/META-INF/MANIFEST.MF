@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Main-Class: com.pro8.pro8.App
+Created-By: Maven Integration for Eclipse
+
